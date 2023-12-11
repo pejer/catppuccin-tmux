@@ -275,7 +275,7 @@ main() {
   # status
   set status "on"
   set status-bg "${thm_bg}"
-  set status-justify "left"
+  set status-justify "absolute-centre"
   set status-left-length "100"
   set status-right-length "100"
 
